@@ -11,7 +11,7 @@ The aim of this project is to explore the different types of fuels used in vario
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/vehicle_dag.git
+    git clone https://github.com/thaisaraujo2000/vehicle_dag.git
     ```
 
 2. Navigate to the cloned repository folder:
