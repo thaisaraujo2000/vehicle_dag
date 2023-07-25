@@ -68,3 +68,7 @@ success_task
 ## ⚖️ License
 
 This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
+
+## Team Members 
+- [Morsinaldo Medeiros](https://github.com/Morsinaldo)
+- [Thaís Medeiros](https://github.com/thaisaraujo2000)
